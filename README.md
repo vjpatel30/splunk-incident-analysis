@@ -40,3 +40,20 @@ This project reinforced how SIEM tools support incident triage and investigation
 - Incident investigation
 - Pattern recognition
 - Security documentation
+
+- ## Screenshots
+
+### Centralized Host Visibility in Splunk
+![Centralized Host Visibility in Splunk](splunk-agent-logs.png)
+
+### Multi-Host Event Results
+![Multi-Host Event Results](splunk-event-results.png)
+
+### Windows Event Log Analysis
+![Windows Event Log Analysis](splunk-windows-event-analysis.png)
+
+### Failed Login Timechart Analysis
+![Failed Login Timechart Analysis](splunk-failed-login-timechart.png)
+
+### Host Metrics Query Results
+![Host Metrics Query Results](splunk-host-metrics.png)
